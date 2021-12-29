@@ -4,3 +4,5 @@ Hi, I’m Wenxi! I'm a first-year student at the University of Pennsylvania stud
 I'm passionate about the intersections between science and art, and I hope to share my projects related to that here.
 
 Feel free to check out my (work-in-progress) website @ <a href="https://wenxich.github.io">wenxich.github.io</a> or browse my Github!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxich)](https://github.com/wenxich/github-readme-stats)
