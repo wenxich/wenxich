@@ -5,4 +5,4 @@ I'm passionate about the intersections between science and art, and I hope to sh
 
 Feel free to check out my (work-in-progress) website @ <a href="https://wenxich.github.io">wenxich.github.io</a> or browse my Github!
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxich&layout=compact)](https://github.com/wenxich/github-readme-stats)
