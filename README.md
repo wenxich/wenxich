@@ -8,10 +8,6 @@ I'm passionate about the intersections between science and art, and I hope to sh
 
 <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-
-
-
-
-Feel free to check out my (work-in-progress) website @ <a href="https://wenxich.github.io">wenxich.github.io</a> or browse my Github!
+Feel free to check out my (work-in-progress) website @ <a href="https://wenxi.me">wenxi.me</a> or browse my Github!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxich&layout=compact)](https://github.com/wenxich/github-readme-stats)
