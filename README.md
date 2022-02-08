@@ -3,8 +3,8 @@
 Hi, I’m Wenxi! I'm a first-year student at the University of Pennsylvania studying <b>Computer Science</b>, <b>Design</b>, and <b>Mechanical Engineering.</b>
 I'm passionate about the intersections between science and art, and I hope to share my projects related to that here.
 
-* 🤍 <b>I love:</b> front-end development, experimenting with new languages
-* 💻 <b>I'm learning:</b> React, Python, mobile app development (iOS)
+* 🤍 <b>I love:</b> front-end web development, UI/UX, experimenting with new languages
+* 💻 <b>I'm learning:</b> backend/full-stack web development, mobile app development (iOS)
 
 <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
