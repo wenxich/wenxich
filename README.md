@@ -2,8 +2,8 @@
 
 Hi, I’m Wenxi! I'm a first-year student at the University of Pennsylvania studying <b>Cognitive Science</b> and <b>Computer Science.</b>
 
-* 🤍 <b>I love:</b> front-end engineering, back-end engineering, UI/UX, web/mobile app development, experimenting with new languages
-* 💻 <b>I'm learning:</b> full-stack web development, mobile app development (iOS), machine learning, artificial intelligence
+* 🤍 <b>I love:</b> front-end and back-end web development, UI/UX, experimenting with new languages
+* 💻 <b>I'm learning:</b> full-stack web development, mobile app development (iOS), machine learning, data science
 
 <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
