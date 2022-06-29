@@ -1,6 +1,6 @@
 <h1>Welcome!</h1>
 
-Hi, I’m Wenxi! I'm a second-year student at the University of Pennsylvania studying <b>Computer Science.</b>
+Hi, I’m Wenxi! I'm a second-year <b>Computer Science</b> student.
 
 * 🤍 <b>I love:</b> front-end and back-end web development, UI/UX, experimenting with new languages
 * 💻 <b>I'm learning:</b> full-stack web development, mobile app development (iOS), data science, game development
