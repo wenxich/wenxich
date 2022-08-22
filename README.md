@@ -7,4 +7,4 @@ Hi, I’m Wenxi! I'm a second-year <b>Computer Science</b> major and <b>Design</
 
 Feel free to check out <a href="https://wenxich.github.io">my website</a> or browse my Github!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxich&layout=compact&hide=Makefile)](https://github.com/wenxich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxich&layout=compact&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
