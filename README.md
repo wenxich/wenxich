@@ -1,11 +1,13 @@
 <h1>Welcome!</h1>
 
-Hi, I’m Wenxi! I'm a third-year <b>Computer Science</b> major and <b>Design</b> minor.
+Hi, I’m Wenxi! I'm a third-year undergraduate <b>Computer Science</b> major and <b>Design</b> minor. I unironically like making websites as a hobby.
 
-* 🤍 <b>I love:</b> full-stack web development, UI/UX, human-centered design, learning new languages
-* 💻 <b>I'm learning:</b> mobile app development (iOS/Android), database design, game development
+* 🤍 <b>I love:</b> web development, UI/UX, human-centered design, learning new languages, creative coding
+* 💻 <b>I'm learning:</b> mobile app development (iOS/Android), database design, game development, AI
 
-Feel free to check out <a href="https://wenxich.github.io">my website</a> or browse my Github!
+In addition to coding, I love teaching. I'm currently a TA for Intro to Algorithms, and in my free time, I hold beginner workshops in Figma and HTML/CSS. In my work, I hope to break down barriers to computer science and programming education.
+
+Thanks for stopping by - feel free to check out <a href="https://wenxich.github.io">my website</a> or browse my Github!
 
 ![Top Langs](https://github-readme-stats-1e8i1pas6-wenxich.vercel.app/api/top-langs/?username=wenxich&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&hide=makefile,shell,assembly)
 
