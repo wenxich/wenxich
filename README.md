@@ -5,7 +5,7 @@ Hi, I’m Wenxi! I'm a third-year undergraduate <b>Computer Science</b> major an
 * 🤍 <b>I love:</b> web development, UI/UX, human-centered design, learning new languages, creative coding
 * 💻 <b>I'm learning:</b> mobile app development (iOS/Android), database design, game development, AI
 
-In addition to coding, I love teaching. I'm currently a TA for Intro to Algorithms, and in my free time, I hold beginner workshops in Figma and HTML/CSS. In my work, I hope to break down barriers to computer science and programming education.
+In addition to coding, I love teaching. I'm currently a TA for Intro to Algorithms, and in my free time, I hold beginner workshops in Figma and HTML/CSS. In my work, I aim to make computer science and programming education more accessible and inclusive.
 
 Thanks for stopping by - feel free to check out <a href="https://wenxich.github.io">my website</a> or browse my Github!
 
