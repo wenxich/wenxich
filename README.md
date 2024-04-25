@@ -4,7 +4,7 @@ Hi, I’m Wenxi! I'm a third-year undergraduate <b>Computer Science</b> major an
 
 * <b>Coding 💻.</b> I believe that the digital provides unique spaces for interaction and curiosity, while the Internet makes these spaces more widely accessible. This means I find great joy in making websites and web tools - feel free to check out my previous projects at <a href="https://wenxich.github.io">my website</a> or browse my Github.
 
-* <b>Teaching 🧑‍🏫.</b> I currently TA for Intro to Algorithms and hold beginner workshops in Figma and HTML/CSS. In my work, I aim to make CS and programming education more accessible and inclusive, especially to those with little to no prior background in CS.
+* <b>Teaching 🧑‍🏫.</b> I currently TA for Intro to Algorithms and hold beginner workshops in Figma and HTML/CSS. In my work, I aim to make CS and programming education more accessible and inclusive, especially to those with little to no prior background in CS. I believe anyone can be a computer science student!
 
 * <b>Research 💭.</b> I'm interested and involved with promoting knowledge-building and justice-oriented approaches to computing education. I love discussing new approaches to embedding ethics into computing curriculum and teaching socially responsible computing - feel free to <a href="https://www.linkedin.com/in/wenxich/">connect with me</a> if you're also interested.
 
