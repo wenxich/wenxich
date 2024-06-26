@@ -1,4 +1,4 @@
-*Too much movement? Navigate to a still version of this profile [here](https://github.com/wenxich/wenxich/blob/main/still.png).*
+*[Go to text-only version?](https://github.com/wenxich/wenxich/blob/main/text.md)*
 
 <img alt="a monitor" src="https://99gifshop.neocities.org/items/6/Amonitor.gif"/> Hi there! I’m Wenxi, a programmer/artist currently studying **Computer Science** and **Design**. Several things about me:
 
