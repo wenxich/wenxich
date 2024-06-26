@@ -1,4 +1,4 @@
-<h1>Hi there! 👋</h1> <img align="right" width="400" alt="Jérémie's dynamically generated GitHub stats" src="https://github-readme-stats-tawny-six-67.vercel.app/api/top-langs/?username=wenxich&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&hide=makefile,shell,assembly" href="https://github.com/wenxich"/>
+<h1>Hi there! 👋</h1> <img align="right" width="350" alt="Jérémie's dynamically generated GitHub stats" src="https://github-readme-stats-tawny-six-67.vercel.app/api/top-langs/?username=wenxich&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&hide=makefile,shell,assembly" href="https://github.com/wenxich"/>
 
 I’m Wenxi, a programmer/artist currently studying **Computer Science** and **Design**. Several things about me:
 
