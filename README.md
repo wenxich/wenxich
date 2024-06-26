@@ -1,12 +1,17 @@
-<h1>Welcome!</h1>
+<h1>Hi there! 👋</h1>
 
-Hi, I’m Wenxi! I'm an incoming fourth-year undergraduate <b>Computer Science</b> major and <b>Design</b> minor, and I love...
+I’m Wenxi, a programmer/artist currently studying **Computer Science** and **Design**. Several things about me:
 
-* <b>Coding 💻.</b> I believe that the digital provides unique spaces for interaction and curiosity, while the Internet makes these spaces more widely accessible. This means I find great joy in making websites and web tools - feel free to check out my previous projects at <a href="https://wenxich.github.io">my website</a> or browse my Github.
+- I'm a big **creative coding** enthusiast - huge believer that code can be a medium of expression. There are so many ways we can play with [human-computer interaction](https://artofweb.neocities.org/s3/a1), experiment with [user input](https://artofweb.neocities.org/s3/final), and design [unique experiences](https://artofweb.neocities.org/). ![Drifloon](https://64.media.tumblr.com/f54b197b2b59f4a0c9547e3a767188d4/7cf915f60095705b-9c/s75x75_c1/49470d43c7fdd13214c417e196fffcda96fa4a9b.gifv)
 
-* <b>Teaching 🧑‍🏫.</b> I currently TA for Intro to Algorithms and hold beginner workshops in Figma and HTML/CSS. In my work, I aim to make CS and programming education more accessible and inclusive, especially to those with little to no prior background in CS. I strongly believe anyone can be a computer scientist!
+- I also enjoy learning about history and how it relates to the use and development of current technologies. Currently, I'm reading [Viral Justice](https://www.ruhabenjamin.com/viral-justice) by Ruha Benjamin. *(Updated 6/25/24)* ![Cubone](https://64.media.tumblr.com/fd2fade608c08a2ff628436f894b90ae/7cf915f60095705b-60/s75x75_c1/4d7e3c24320f2b0550abbbc0477bb9098e115b5c.gifv) I also recommend reading the following:
+  - [Race After Technology](https://www.ruhabenjamin.com/race-after-technology)
+  - [Design From the Margins](https://www.belfercenter.org/publication/design-margins) (this one's open-access!)
+  - [Algorithms of Oppression](https://algorithmsofoppression.com/)
 
-* <b>Research 💭.</b> I'm interested and involved with promoting knowledge-building and justice-oriented approaches to computing education. I love discussing new approaches to teaching socially responsible computing - feel free to <a href="https://www.linkedin.com/in/wenxich/">connect with me</a> if you're also interested.
+- Along with the above, I like listening to [the CS-Ed Podcast](https://open.spotify.com/show/5NtCNeqOxgtyh0FTb5OLf2?si=d7c31838c0ba48e4), which brings educators together to discuss teaching and equity in computer science. Another great resource for justice-oriented computer science education is this online (open-access!) textbook about [Critically Conscious Computing](https://criticallyconsciouscomputing.org/). ![Staryu](https://64.media.tumblr.com/tumblr_m3j73lVQHJ1qid2nw.gif)
+
+- Lastly, my top 3 albums of all time are [醜奴兒](https://open.spotify.com/album/4tfZSMFLsN0q2IULNLAJ40?si=vQAMBKJfSg6eTWdxtkU4rg) by No Party for Cao Dong, [Go Slow](https://open.spotify.com/album/3dsjH0D0Co0X7oii3a7FO8?si=uz78lverS4Cde93qwki2sA) by deca joins, and [1 and 1](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj?si=IVYflggRTCaf_KdZ1DuIRQ) by SHINee - to give you something to listen to as you code. ![Gengar](https://64.media.tumblr.com/tumblr_ma6usrGTIY1qid2nw.gif)
 
 ![Top Langs](https://github-readme-stats-tawny-six-67.vercel.app/api/top-langs/?username=wenxich&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&hide=makefile,shell,assembly)
 
